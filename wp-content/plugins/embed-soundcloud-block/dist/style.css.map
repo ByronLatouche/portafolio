@@ -1,0 +1,1 @@
+{"version":3,"file":"style.css","mappings":"AAAA,YAEI,qBADA,cACqB,CAFzB,mBAKQ,6BAAY,CAAZ,qBAAsB","sources":["webpack://sound-cloud/./src/style.scss"],"sourcesContent":[".mainWidget {\r\n    max-width: 100%;\r\n    display: inline-block;\r\n\r\n    iframe {\r\n        box-sizing: border-box;\r\n\r\n    }\r\n}"],"names":[],"sourceRoot":""}
