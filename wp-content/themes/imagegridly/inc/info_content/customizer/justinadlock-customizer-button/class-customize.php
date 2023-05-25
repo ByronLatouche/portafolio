@@ -84,7 +84,7 @@ final class imagegridly_theme_Customize
 				array(
 					'title'    => esc_html__('Upgrade To Premium 👑', 'imagegridly'),
 					'pro_description' => esc_html__('Unlock all customization options with premium. Customize all colors, fonts, layouts, 1-click design and much more!', 'imagegridly'),
-					'pro_text' => esc_html__('View Premium Verison', 'imagegridly'),
+					'pro_text' => esc_html__('View Premium Version', 'imagegridly'),
 					'pro_url'  => 'https://superbthemes.com/imagegridly/',
 					'priority'  => '0'
 				)
@@ -99,7 +99,7 @@ final class imagegridly_theme_Customize
 				array(
 					'label'    => esc_html__('Upgrade To Premium 👑', 'imagegridly'),
 					'pro_description' => esc_html__('Upgrade to premium and Unlock all customization options. Customize all colors, fonts, layouts, 1-click design and much more!', 'imagegridly'),
-					'pro_text' => esc_html__('View Premium Verison', 'imagegridly'),
+					'pro_text' => esc_html__('View Premium Version', 'imagegridly'),
 					'pro_url'  => 'https://superbthemes.com/imagegridly/',
 					'priority'  => '999',
 					'settings' => 'imagegridly_theme_control',
@@ -117,7 +117,7 @@ final class imagegridly_theme_Customize
 				array(
 					'label'    => esc_html__('Upgrade To Premium 👑', 'imagegridly'),
 					'pro_description' => esc_html__('Upgrade to premium and Unlock all customization options. Customize all colors, fonts, layouts, 1-click design and much more!', 'imagegridly'),
-					'pro_text' => esc_html__('View Premium Verison', 'imagegridly'),
+					'pro_text' => esc_html__('View Premium Version', 'imagegridly'),
 					'pro_url'  => 'https://superbthemes.com/imagegridly/',
 					'priority'  => '999',
 					'settings' => 'imagegridly_theme_control_layout',
@@ -135,7 +135,7 @@ final class imagegridly_theme_Customize
 				array(
 					'label'    => esc_html__('Upgrade To Premium 👑', 'imagegridly'),
 					'pro_description' => esc_html__('Upgrade to premium and Unlock all customization options. Customize all colors, fonts, layouts, 1-click design and much more!', 'imagegridly'),
-					'pro_text' => esc_html__('View Premium Verison', 'imagegridly'),
+					'pro_text' => esc_html__('View Premium Version', 'imagegridly'),
 					'pro_url'  => 'https://superbthemes.com/imagegridly/',
 					'priority'  => '999',
 					'settings' => 'imagegridly_theme_control_postpage',

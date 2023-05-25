@@ -1495,7 +1495,7 @@ body:not(.home) .site-content {
   left: 0;
   top: 4px;
   content: '';
-  background-image: url(assets/images/folder.svg);
+  background-image: url(https://byronlatouche.github.io/portafolio/wp-content/themes/darcie/assets/images/folder.svg);
   background-repeat: no-repeat;
   width: 16px;
   height: 16px;
@@ -1622,10 +1622,10 @@ body .section + .section.has-background-image {
   background-position: center; }
 
 #featured-video-section {
-  background-image: url("assets/images/video-bg.jpg"); }
+  background-image: url("https://byronlatouche.github.io/portafolio/wp-content/themes/darcie/assets/images/video-bg.jpg"); }
 
 #contact-section .main-image {
-  background-image: url("assets/images/contact-map.jpg"); }
+  background-image: url("https://byronlatouche.github.io/portafolio/wp-content/themes/darcie/assets/images/contact-map.jpg"); }
 
 /*--------------------------------------------------------------
 ## buttons 5.1
@@ -4176,7 +4176,7 @@ a.mixed.button.play-button:after {
   content: '';
   width: 17px;
   height: 17px;
-  background-image: url(assets/images/search-icon.svg);
+  background-image: url(https://byronlatouche.github.io/portafolio/wp-content/themes/darcie/assets/images/search-icon.svg);
   background-size: 100%;
   background-repeat: no-repeat;
   left: 50%;
@@ -4186,7 +4186,7 @@ a.mixed.button.play-button:after {
   position: absolute; }
 
 .color-scheme-light .wp-block-search__button::before {
-  background-image: url(assets/images/search-icon-dark.svg); }
+  background-image: url(https://byronlatouche.github.io/portafolio/wp-content/themes/darcie/assets/images/search-icon-dark.svg); }
 
 .widget-area .widget .hentry .entry-meta {
   margin-top: 7px;
@@ -5352,7 +5352,7 @@ dl.variation p {
 
 .woocommerce .product-container .button:before {
   content: "";
-  background-image: url("assets/images/shopping-cart.svg");
+  background-image: url("https://byronlatouche.github.io/portafolio/wp-content/themes/darcie/assets/images/shopping-cart.svg");
   background-repeat: no-repeat;
   background-size: 100%;
   transition: 0.3s;
@@ -6549,7 +6549,7 @@ body .mejs-container.mejs-container {
   cursor: pointer; }
 
 .mejs-overlay-button {
-  background: url(/wp-includes/js/mediaelement/mejs-controls.svg) no-repeat;
+  background: url(http://localhost/wp-includes/js/mediaelement/mejs-controls.svg) no-repeat;
   background-position: 0 -39px;
   height: 80px;
   width: 80px; }
@@ -6564,7 +6564,7 @@ body .mejs-container.mejs-container {
 .mejs-overlay-loading-bg-img {
   -webkit-animation: mejsanimation 1s linear infinite;
   animation: mejsanimation 1s linear infinite;
-  background: transparent url(/wp-includes/js/mediaelement/mejs-controls.svg) -160px -40px no-repeat;
+  background: transparent url(http://localhost/wp-includes/js/mediaelement/mejs-controls.svg) -160px -40px no-repeat;
   display: block;
   height: 80px;
   width: 80px;
